@@ -70,8 +70,9 @@
                                 </li>                                
                                 <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/service">Services</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
+                                <li class="nav-item"><a class="nav-link" href="/project">Projects</a></li>
+                                {{-- <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li> --}}
+                                {{-- <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
                                     <ul>                                        
                                         <li class="nav-item"><a class="nav-link" href="/single-service">Service Details</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/single-blog">Blog Details</a></li>                                       
@@ -79,9 +80,9 @@
                                         <li class="nav-item"><a class="nav-link" href="/single-project">Project Details</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/team">Our Team</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
-                                        {{-- <li class="nav-item"><a class="nav-link" href="404.html">404</a></li> --}}
+                                        <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
                                     </ul>
-                                </li>
+                                </li> --}}
                                 <li class="nav-item highlighted-menu"><a class="nav-link" href="/contact">Contact Us</a></li>                               
                             </ul>
                         </div>
@@ -110,7 +111,7 @@
 						<h1 class="text-anime-style-3" data-cursor="-opaque">Our Projects</h1>
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index-2.html">home</a></li>
+								<li class="breadcrumb-item"><a href="/">home /</a></li>
 								<li class="breadcrumb-item active" aria-current="page">projects</li>
 							</ol>
 						</nav>
@@ -133,7 +134,7 @@
                         <div class="project-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>
-                                    <img src="images/our-project-1.jpg" alt="">
+                                    <img src="images/image2.png" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -143,13 +144,13 @@
                         <div class="project-body">
                             <!-- Project Body Title Start -->
                             <div class="project-body-title">
-                                <h3>aspen heights</h3>
+                                <h3>Ghana Navy Pier/Dock Construction</h3>
                             </div>
                             <!-- Project Body Title End -->
 
                             <!-- Project Content Start -->
                             <div class="project-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Developed a state-of-the-art landing site for naval operations.</p>
                                 <div class="project-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -168,7 +169,7 @@
                         <div class="project-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>
-                                    <img src="images/our-project-2.jpg" alt="">
+                                    <img src="images/image10.png" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -178,13 +179,13 @@
                         <div class="project-body">
                             <!-- Project Body Title Start -->
                             <div class="project-body-title">
-                                <h3>forest hill towers</h3>
+                                <h3>Techiman Road Development</h3>
                             </div>
                             <!-- Project Body Title End -->
 
                             <!-- Project Content Start -->
                             <div class="project-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Executed a three-kilometer surface-dressed road enhancing local transportation.</p>
                                 <div class="project-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -203,7 +204,7 @@
                         <div class="project-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>
-                                    <img src="images/our-project-3.jpg" alt="">
+                                    <img src="images/image15.png" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -213,13 +214,13 @@
                         <div class="project-body">
                             <!-- Project Body Title Start -->
                             <div class="project-body-title">
-                                <h3>bayside residences</h3>
+                                <h3>Olympic-Size Swimming Stadium</h3>
                             </div>
                             <!-- Project Body Title End -->
 
                             <!-- Project Content Start -->
                             <div class="project-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Ongoing construction of a premier swimming facility for the Ghana Navy.</p>
                                 <div class="project-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -238,7 +239,7 @@
                         <div class="project-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>
-                                    <img src="images/our-project-4.jpg" alt="">
+                                    <img src="images/image12.png" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -248,13 +249,13 @@
                         <div class="project-body">
                             <!-- Project Body Title Start -->
                             <div class="project-body-title">
-                                <h3>parkview plaza</h3>
+                                <h3>Light Academy Sports Facilities</h3>
                             </div>
                             <!-- Project Body Title End -->
 
                             <!-- Project Content Start -->
                             <div class="project-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Installed playground equipment and multiple sports courts at Adenta.</p>
                                 <div class="project-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -273,7 +274,7 @@
                         <div class="project-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>
-                                    <img src="images/our-project-5.jpg" alt="">
+                                    <img src="images/image14.png" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -283,13 +284,13 @@
                         <div class="project-body">
                             <!-- Project Body Title Start -->
                             <div class="project-body-title">
-                                <h3>horizon heights</h3>
+                                <h3>Samsam Water Bottling Factory</h3>
                             </div>
                             <!-- Project Body Title End -->
 
                             <!-- Project Content Start -->
                             <div class="project-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Constructed a modern facility for water purification and bottling.</p>
                                 <div class="project-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -308,7 +309,7 @@
                         <div class="project-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>
-                                    <img src="images/our-project-6.jpg" alt="">
+                                    <img src="images/image20.png" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -318,13 +319,13 @@
                         <div class="project-body">
                             <!-- Project Body Title Start -->
                             <div class="project-body-title">
-                                <h3>crescent towers</h3>
+                                <h3>Homes</h3>
                             </div>
                             <!-- Project Body Title End -->
 
                             <!-- Project Content Start -->
                             <div class="project-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Construction of 10 bedroom, deluxe house with swimming pool, Accra.</p>
                                 <div class="project-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -354,7 +355,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>call support center 24/7</p>
-                                <h3>+1 809 120 6705</h3>
+                                <h3>+233279716390  +233538437105</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -366,7 +367,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>write to us</p>
-                                <h3>info@domain.com</h3>
+                                <h3>info@abieconstruction.com</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -499,7 +500,7 @@
                                 <img src="images/icon-phone.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>+1 809 120 6705</p>
+                            <p>+233279716390  +233538437105</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -510,7 +511,7 @@
                                 <img src="images/icon-mail.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>info@domain.com</p>
+                            <p>info@abieconstruction.com</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -521,7 +522,7 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>37 San Juan Lane Graaf Florisstraat 22A,3021 CH</p>
+                            <p>Accra, Ghana</p>
                         </div>
                         <!-- Info Box End -->
                     </div>
@@ -535,7 +536,7 @@
                     <div class="col-lg-6 col-md-7">
                         <!-- Footer Copyright Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2024 BuiltUp. All Rights Reserved.</p>
+                            <p>Copyright © 2025 ABIE Construction Limited. All Rights Reserved.</p>
                         </div>
                         <!-- Footer Copyright End -->
                     </div>

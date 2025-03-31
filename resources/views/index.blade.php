@@ -70,8 +70,9 @@
                                 </li>                                
                                 <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/service">Services</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
+                                <li class="nav-item"><a class="nav-link" href="/project">Projects</a></li>
+                                {{-- <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li> --}}
+                                {{-- <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
                                     <ul>                                        
                                         <li class="nav-item"><a class="nav-link" href="/single-service">Service Details</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/single-blog">Blog Details</a></li>                                       
@@ -79,9 +80,9 @@
                                         <li class="nav-item"><a class="nav-link" href="/single-project">Project Details</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/team">Our Team</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
-                                        {{-- <li class="nav-item"><a class="nav-link" href="404.html">404</a></li> --}}
+                                        <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
                                     </ul>
-                                </li>
+                                </li> --}}
                                 <li class="nav-item highlighted-menu"><a class="nav-link" href="/contact">Contact Us</a></li>                               
                             </ul>
                         </div>
@@ -115,7 +116,7 @@
 
                         <div class="hero-content-body wow fadeInUp" data-wow-delay="0.5s">
                             <a href="#" class="btn-default">get started</a>
-                            <a href="#" class="btn-default btn-highlighted">view Projects</a>
+                            <a href="/project" class="btn-default btn-highlighted">view Projects</a>
                         </div>
                     </div>
                     <!-- Hero Content End -->
@@ -134,7 +135,7 @@
                     <div class="about-image">
                         <div class="about-img">
                             <figure class="reveal">
-                                <img src="images/about-us-img.png" alt="">
+                                <img src="images/image6.png" alt="">
                             </figure>
                         </div>
                     </div>
@@ -173,7 +174,7 @@
                                 </div>
                                 <div class="about-support-content">
                                     <p>call support center 24X7</p>
-                                    <h3>+1 809 120 6705</h3>
+                                    <h3>+233279716390 | +233538437105</h3>
                                 </div>
                             </div>
                         </div>
@@ -209,7 +210,7 @@
                             <div class="service-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>                                
-                                        <img src="images/service-img-1.jpg" alt="">
+                                        <img src="images/image1.png" alt="">
                                     </figure>
                                 </a>                            
                             </div>
@@ -244,7 +245,7 @@
                             <div class="service-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>                                
-                                        <img src="images/service-img-2.jpg" alt="">
+                                        <img src="images/image2.png" alt="">
                                     </figure>
                                 </a>                            
                             </div>
@@ -279,7 +280,7 @@
                             <div class="service-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>                                
-                                        <img src="images/service-img-3.jpg" alt="">
+                                        <img src="images/image3.png" alt="">
                                     </figure>
                                 </a>                            
                             </div>
@@ -314,7 +315,7 @@
                             <div class="service-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>                                
-                                        <img src="images/service-img-4.jpg" alt="">
+                                        <img src="images/image4.png" alt="">
                                     </figure>
                                 </a>                            
                             </div>
@@ -381,7 +382,7 @@
                         </div>
                         <div class="why-choose-counter">
                             <h3><span class="counter">800</span>+</h3>
-                            <p>project complated</p>
+                            <p>project completed</p>
                         </div>
                     </div>
                     <!-- Why Choose Item End -->
@@ -391,7 +392,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="images/why-choose-img-1.jpg" alt="">
+                            <img src="images/image7.png" alt="">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -409,7 +410,7 @@
                         </div>
                         <div class="why-choose-counter">
                             <h3><span class="counter">800</span>+</h3>
-                            <p>project complated</p>
+                            <p>project completed</p>
                         </div>
                     </div>
                     <!-- Why Choose Item End -->
@@ -419,7 +420,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="images/why-choose-img-2.jpg" alt="">
+                            <img src="images/image8.png" alt="">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -437,7 +438,7 @@
                         </div>
                         <div class="why-choose-counter">
                             <h3><span class="counter">800</span>+</h3>
-                            <p>project complated</p>
+                            <p>project completed</p>
                         </div>
                     </div>
                     <!-- Why Choose Item End -->
@@ -447,7 +448,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="images/why-choose-img-3.jpg" alt="">
+                            <img src="images/image9.png" alt="">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -481,7 +482,7 @@
                             <div class="project-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>
-                                        <img src="images/our-project-1.jpg" alt="">
+                                        <img src="images/image2.png" alt="">
                                     </figure>
                                 </a>
                             </div>
@@ -516,7 +517,7 @@
                             <div class="project-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>
-                                        <img src="images/our-project-2.jpg" alt="">
+                                        <img src="images/image10.png" alt="">
                                     </figure>
                                 </a>
                             </div>
@@ -552,7 +553,7 @@
                             <div class="project-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>
-                                        <img src="images/our-project-3.jpg" alt="">
+                                        <img src="images/image11.png" alt="">
                                     </figure>
                                 </a>
                             </div>
@@ -587,7 +588,7 @@
                             <div class="project-image" data-cursor-text="View">
                                 <a href="#">
                                     <figure>
-                                        <img src="images/our-project-4.jpg" alt="">
+                                        <img src="images/image12.png" alt="">
                                     </figure>
                                 </a>
                             </div>
@@ -597,13 +598,13 @@
                             <div class="project-body">
                                 <!-- Project Body Title Start -->
                                 <div class="project-body-title">
-                                    <h3>parkview plaza</h3>
+                                    <h3>Light Academy Sports Facilities</h3>
                                 </div>
                                 <!-- Project Body Title End -->
     
                                 <!-- Project Content Start -->
                                 <div class="project-content">
-                                    <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                    <p>Installed playground equipment and multiple sports courts at Adenta.</p>
                                     <div class="project-content-footer">
                                         <a href="#" class="readmore-btn">view more</a>
                                     </div>
@@ -834,7 +835,7 @@
                                 <!-- FAQs Img Start -->
                                 <div class="faqs-img-1">
                                     <figure class="image-anime reveal">
-                                        <img src="images/our-faqs-img-1.jpg" alt="">
+                                        <img src="images/image13.png" alt="">
                                     </figure>
                                 </div>
                                 <!-- FAQs Img End -->                              
@@ -843,7 +844,7 @@
                                 <!-- FAQs Img Start -->
                                 <div class="faqs-img-2">
                                     <figure class="image-anime reveal">
-                                        <img src="images/our-faqs-img-2.jpg" alt="">
+                                        <img src="images/image14.png" alt="">
                                     </figure>
                                 </div>
                                 <!-- FAQs Img End -->
@@ -855,7 +856,7 @@
                                 <!-- FAQs Img Start -->
                                 <div class="faqs-img-1">
                                     <figure class="image-anime reveal">
-                                        <img src="images/our-faqs-img-3.jpg" alt="">
+                                        <img src="images/image15.png" alt="">
                                     </figure>
                                 </div>
                                 <!-- FAQs Img End -->                                
@@ -864,7 +865,7 @@
                                 <!-- FAQs Img Start -->
                                 <div class="faqs-img-2">
                                     <figure class="image-anime reveal">
-                                        <img src="images/our-faqs-img-4.jpg" alt="">
+                                        <img src="images/image16.png" alt="">
                                     </figure>
                                 </div>
                                 <!-- FAQs Img End -->
@@ -872,7 +873,7 @@
                         </div>
 
                         <div class="our-faqs-bulitup">
-                            <img src="images/icon-faq-bulitup.svg" alt="">
+                            <img src="images/logo-new.png" alt="">
                         </div>
                     </div>
                     <!-- Our FAQs Images End -->
@@ -957,7 +958,7 @@
     <!-- Our FAQs Section End -->
 
     <!-- Our Blog Section End -->
-    <div class="our-blog">
+    {{-- <div class="our-blog">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -1069,7 +1070,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Our Blog End -->
 
     <!-- Contact Us Section Start -->
@@ -1086,7 +1087,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>call support center 24/7</p>
-                                <h3>+1 809 120 6705</h3>
+                                <h3>+233279716390  +233538437105</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -1098,7 +1099,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>write to us</p>
-                                <h3>info@domain.com</h3>
+                                <h3>info@abieconstruction.com</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -1231,7 +1232,7 @@
                                 <img src="images/icon-phone.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>+1 809 120 6705</p>
+                            <p>+233279716390  +233538437105</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -1242,7 +1243,7 @@
                                 <img src="images/icon-mail.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>info@domain.com</p>
+                            <p>info@abieconstruction.com</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -1253,7 +1254,7 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>37 San Juan Lane Graaf Florisstraat 22A,3021 CH</p>
+                            <p>Accra, Ghana</p>
                         </div>
                         <!-- Info Box End -->
                     </div>
@@ -1267,7 +1268,7 @@
                     <div class="col-lg-6 col-md-7">
                         <!-- Footer Copyright Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2024 BuiltUp. All Rights Reserved.</p>
+                            <p>Copyright © 2025 ABIE Construction Limited. All Rights Reserved.</p>
                         </div>
                         <!-- Footer Copyright End -->
                     </div>

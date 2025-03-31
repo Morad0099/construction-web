@@ -70,8 +70,9 @@
                                 </li>                                
                                 <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/service">Services</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
+                                <li class="nav-item"><a class="nav-link" href="/project">Projects</a></li>
+                                {{-- <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li> --}}
+                                {{-- <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
                                     <ul>                                        
                                         <li class="nav-item"><a class="nav-link" href="/single-service">Service Details</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/single-blog">Blog Details</a></li>                                       
@@ -79,9 +80,9 @@
                                         <li class="nav-item"><a class="nav-link" href="/single-project">Project Details</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/team">Our Team</a></li>
                                         <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
-                                        {{-- <li class="nav-item"><a class="nav-link" href="404.html">404</a></li> --}}
+                                        <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
                                     </ul>
-                                </li>
+                                </li> --}}
                                 <li class="nav-item highlighted-menu"><a class="nav-link" href="/contact">Contact Us</a></li>                               
                             </ul>
                         </div>
@@ -110,7 +111,7 @@
 						<h1 class="text-anime-style-3" data-cursor="-opaque">Services</h1>
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index-2.html">home</a></li>
+								<li class="breadcrumb-item"><a href="/">home /</a></li>
 								<li class="breadcrumb-item active" aria-current="page">services</li>
 							</ol>
 						</nav>
@@ -145,7 +146,7 @@
                         <div class="service-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>                                
-                                    <img src="images/service-img-1.jpg" alt="">
+                                    <img src="images/image8.png" alt="">
                                 </figure>
                             </a>                            
                         </div>
@@ -161,7 +162,7 @@
 
                             <!-- Service Content Start -->
                             <div class="service-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Expertise in residential, commercial, and institutional buildings.</p>
                                 <div class="service-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -180,7 +181,7 @@
                         <div class="service-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>                                
-                                    <img src="images/service-img-2.jpg" alt="">
+                                    <img src="images/image2.png" alt="">
                                 </figure>
                             </a>                            
                         </div>
@@ -190,13 +191,13 @@
                         <div class="service-body">
                             <!-- Service Body Title Start -->
                             <div class="service-body-title">
-                                <h3>architecture design</h3>
+                                <h3>Floating Piers & Docks</h3>
                             </div>
                             <!-- Service Body Title End -->
 
                             <!-- Service Content Start -->
                             <div class="service-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Specialized marine construction solutions.</p>
                                 <div class="service-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -215,7 +216,7 @@
                         <div class="service-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>                                
-                                    <img src="images/service-img-3.jpg" alt="">
+                                    <img src="images/image17.png" alt="">
                                 </figure>
                             </a>                            
                         </div>
@@ -225,13 +226,13 @@
                         <div class="service-body">
                             <!-- Service Body Title Start -->
                             <div class="service-body-title">
-                                <h3>building renovation</h3>
+                                <h3>Sports Infrastructure</h3>
                             </div>
                             <!-- Service Body Title End -->
 
                             <!-- Service Content Start -->
                             <div class="service-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Installation of synthetic football pitches, basketball courts, and sports flooring.</p>
                                 <div class="service-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -250,7 +251,7 @@
                         <div class="service-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>                                
-                                    <img src="images/service-img-4.jpg" alt="">
+                                    <img src="images/image18.png" alt="">
                                 </figure>
                             </a>                            
                         </div>
@@ -260,13 +261,13 @@
                         <div class="service-body">
                             <!-- Service Body Title Start -->
                             <div class="service-body-title">
-                                <h3>flooring & roofing</h3>
+                                <h3>Swimming Pools & Water Facilities</h3>
                             </div>
                             <!-- Service Body Title End -->
 
                             <!-- Service Content Start -->
                             <div class="service-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Custom-built pools, boreholes, and water treatment systems.</p>
                                 <div class="service-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -285,7 +286,7 @@
                         <div class="service-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>                                
-                                    <img src="images/service-img-5.jpg" alt="">
+                                    <img src="images/image16.png" alt="">
                                 </figure>
                             </a>                            
                         </div>
@@ -295,13 +296,13 @@
                         <div class="service-body">
                             <!-- Service Body Title Start -->
                             <div class="service-body-title">
-                                <h3>building maintenance</h3>
+                                <h3>Road & Drainage Construction</h3>
                             </div>
                             <!-- Service Body Title End -->
 
                             <!-- Service Content Start -->
                             <div class="service-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>High-quality roads and drainage systems for urban and rural development.</p>
                                 <div class="service-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -320,7 +321,7 @@
                         <div class="service-image" data-cursor-text="View">
                             <a href="#">
                                 <figure>                                
-                                    <img src="images/service-img-6.jpg" alt="">
+                                    <img src="images/image19.png" alt="">
                                 </figure>
                             </a>                            
                         </div>
@@ -330,13 +331,13 @@
                         <div class="service-body">
                             <!-- Service Body Title Start -->
                             <div class="service-body-title">
-                                <h3>project management</h3>
+                                <h3>Prefab Buildings</h3>
                             </div>
                             <!-- Service Body Title End -->
 
                             <!-- Service Content Start -->
                             <div class="service-content">
-                                <p>Our post-construction services gives you peace of mind knowing that we are still here for you even after.</p>
+                                <p>Efficient and modern modular housing solutions.</p>
                                 <div class="service-content-footer">
                                     <a href="#" class="readmore-btn">view more</a>
                                 </div>
@@ -461,7 +462,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>call support center 24/7</p>
-                                <h3>+1 809 120 6705</h3>
+                                <h3>+233279716390  +233538437105</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -473,7 +474,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>write to us</p>
-                                <h3>info@domain.com</h3>
+                                <h3>info@abieconstruction.com</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -606,7 +607,7 @@
                                 <img src="images/icon-phone.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>+1 809 120 6705</p>
+                            <p>+233279716390  +233538437105</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -617,7 +618,7 @@
                                 <img src="images/icon-mail.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>info@domain.com</p>
+                            <p>info@abieconstruction.com</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -628,7 +629,7 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>37 San Juan Lane Graaf Florisstraat 22A,3021 CH</p>
+                            <p>Accra, Ghana</p>
                         </div>
                         <!-- Info Box End -->
                     </div>
@@ -642,7 +643,7 @@
                     <div class="col-lg-6 col-md-7">
                         <!-- Footer Copyright Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2024 BuiltUp. All Rights Reserved.</p>
+                            <p>Copyright © 2025 ABIE Construction Limited. All Rights Reserved.</p>
                         </div>
                         <!-- Footer Copyright End -->
                     </div>

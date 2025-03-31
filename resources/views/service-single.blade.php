@@ -610,7 +610,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>call support center 24/7</p>
-                                <h3>+1 809 120 6705</h3>
+                                <h3>+233279716390  +233538437105</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -622,7 +622,7 @@
                             </div>
                             <div class="contact-info-content">
                                 <p>write to us</p>
-                                <h3>info@domain.com</h3>
+                                <h3>info@abieconstruction.com</h3>
                             </div>
                         </div>
                         <!-- Contact Info End -->
@@ -755,7 +755,7 @@
                                 <img src="images/icon-phone.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>+1 809 120 6705</p>
+                            <p>+233279716390  +233538437105</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -766,7 +766,7 @@
                                 <img src="images/icon-mail.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>info@domain.com</p>
+                            <p>info@abieconstruction.com</p>
                         </div>
                         <!-- Info Box End -->
 
@@ -777,7 +777,7 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <!-- Icon Box End -->
-                            <p>37 San Juan Lane Graaf Florisstraat 22A,3021 CH</p>
+                            <p>Accra, Ghana</p>
                         </div>
                         <!-- Info Box End -->
                     </div>
@@ -791,7 +791,7 @@
                     <div class="col-lg-6 col-md-7">
                         <!-- Footer Copyright Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2024 BuiltUp. All Rights Reserved.</p>
+                            <p>Copyright © 2025 ABIE Construction Limited. All Rights Reserved.</p>
                         </div>
                         <!-- Footer Copyright End -->
                     </div>
