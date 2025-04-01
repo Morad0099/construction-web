@@ -88,7 +88,7 @@
                         </div>
                         <!-- Let’s Start Button Start -->
                         <div class="header-btn d-inline-flex">
-                            <a href="/contact" class="btn-default">Contact Us</a>
+                            <a href="/contact" class="-new">Contact Us</a>
                         </div>
                         <!-- Let’s Start Button End -->
 					</div>
@@ -163,7 +163,7 @@
                         <!-- About Content Footer Start -->
                         <div class="about-us-content-footer wow fadeInUp" data-wow-delay="0.75s">
                             <div class="about-us-footer-btn">
-                                <a href="#" class="btn-default">get free quote</a>
+                                <a href="#" class="btn-default-new">get free quote</a>
                             </div>
                             <div class="about-us-contact-support">
                                 <div class="icon-box">
@@ -405,7 +405,7 @@
 
 					<!-- Section Btn Start -->
 					<div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-						<a href="#" class="btn-default btn-large">get free quote</a>
+						<a href="#" class="-new btn-large">get free quote</a>
 					</div>
 					<!-- Section Btn End -->
 				</div>
@@ -627,7 +627,7 @@
                                 </div>
                     
                                 <div class="col-md-12">
-                                    <button type="submit" class="btn-default">submit</button>
+                                    <button type="submit" class="btn-default-new">submit</button>
                                     <div id="msgSubmit" class="h3 hidden"></div>
                                 </div>
                             </div>

@@ -205,6 +205,32 @@ body{
 	z-index: 1;
 }
 
+.btn-default-new{
+	display: inline-block;
+	font-family: var(--accent-font);
+	font-size: 18px;
+	font-weight: 800;
+	line-height: 1.3em;
+	text-transform: capitalize;
+	color: var(--white-color);
+	background: #c30811;
+	border-radius: 12px;
+	padding: 20px 60px 20px 30px;
+	border: none;
+	transition: 0.5s ease-in-out;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.btn-default-new:hover{
+	background: transparent;
+}
+
+.btn-default-new:hover::before{
+	background: transparent;
+}
+
 .btn-default:hover{
 	background: transparent;
 }
@@ -254,11 +280,26 @@ body{
 	padding: 19px 60px 19px 30px;
 }
 
+.btn-default-new.btn-highlighted{
+	background-color: transparent;
+	border: 1px solid var(--white-color);
+	color: var(--white-color);
+	padding: 19px 60px 19px 30px;
+}
+
 .btn-default.btn-highlighted:hover{
 	border-color: var(--accent-color);
 }
 
+.btn-default-new.btn-highlighted:hover{
+	border-color: var(--accent-color);
+}
+
 .btn-default.btn-highlighted::after{
+	background-color: var(--accent-color);
+}
+
+.btn-default-new.btn-highlighted::after{
 	background-color: var(--accent-color);
 }
 
@@ -834,6 +875,10 @@ header.main-header .header-sticky.active{
 	margin-left: 30px;
 }
 
+.hero-content-body .btn-default-new.btn-highlighted{
+	margin-left: 30px;
+}
+
 /************************************/
 /***       05. About Us css	      ***/
 /************************************/
@@ -876,7 +921,7 @@ header.main-header .header-sticky.active{
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     font-size: 20px;
-    color: var(--accent-color);
+    color: #c30811;
     display: inline-block;
     line-height: normal;
     position: absolute;
@@ -1778,8 +1823,8 @@ header.main-header .header-sticky.active{
 
 .footer-copyright .footer-social-links ul li a{
 	background-color: transparent;
-	color: var(--accent-color);
-	border: 2px solid var(--accent-color);
+	color: #c30811;
+	border: 2px solid #c30811;
     height: 36px;
     width: 36px;
     border-radius: 100%;
@@ -1861,7 +1906,7 @@ header.main-header .header-sticky.active{
 }
 
 .page-header-box ol li.breadcrumb-item.active{
-	color: var(--accent-color);
+	color: #c30811;
 }
 
 .page-header-box ol .breadcrumb-item+.breadcrumb-item::before{
@@ -1906,7 +1951,7 @@ header.main-header .header-sticky.active{
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     font-size: 20px;
-    color: var(--accent-color);
+    color: #c30811;
     display: inline-block;
     line-height: normal;
     position: absolute;

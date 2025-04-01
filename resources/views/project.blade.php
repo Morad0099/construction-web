@@ -88,7 +88,7 @@
                         </div>
                         <!-- Let’s Start Button Start -->
                         <div class="header-btn d-inline-flex">
-                            <a href="/contact" class="btn-default">Contact Us</a>
+                            <a href="/contact" class="btn-default-new">Contact Us</a>
                         </div>
                         <!-- Let’s Start Button End -->
 					</div>
@@ -421,7 +421,7 @@
                                 </div>
                     
                                 <div class="col-md-12">
-                                    <button type="submit" class="btn-default">submit</button>
+                                    <button type="submit" class="btn-default-new">submit</button>
                                     <div id="msgSubmit" class="h3 hidden"></div>
                                 </div>
                             </div>
