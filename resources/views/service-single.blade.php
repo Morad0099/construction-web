@@ -564,7 +564,7 @@
     <!-- Our FAQs Section End -->
 
 	<!-- Cta Box Section Start -->
-	<div class="cta-box">
+	{{-- <div class="cta-box">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-7 col-md-8">
@@ -593,7 +593,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 	<!-- Cta Box Section End -->
 
     <!-- Contact Us Section Start -->
@@ -630,7 +630,7 @@
                         <!-- Contact Info Image Start -->
                         <div class="contact-info-image">
                             <figure>
-                                <img src="images/contact-info-img.png" alt="">
+                                <img src="" alt="">
                             </figure>
                         </div>
                         <!-- Contact Info Image End -->

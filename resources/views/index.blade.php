@@ -380,10 +380,10 @@
                             <h3>innovation solutions</h3>
                             <p>Utilizing the latest construction technologies for efficiency and sustainability.</p>
                         </div>
-                        <div class="why-choose-counter">
+                        {{-- <div class="why-choose-counter">
                             <h3><span class="counter">800</span>+</h3>
                             <p>project completed</p>
-                        </div>
+                        </div> --}}
                     </div>
                     <!-- Why Choose Item End -->
                 </div>
@@ -408,10 +408,10 @@
                             <h3>quality craftsmanship</h3>
                             <p>Commitment to delivering high-quality, durable projects.</p>
                         </div>
-                        <div class="why-choose-counter">
+                        {{-- <div class="why-choose-counter">
                             <h3><span class="counter">800</span>+</h3>
                             <p>project completed</p>
-                        </div>
+                        </div> --}}
                     </div>
                     <!-- Why Choose Item End -->
                 </div>
@@ -436,10 +436,10 @@
                             <h3>expertise and experience</h3>
                             <p>A team of highly trained professionals with years of industry experience.</p>
                         </div>
-                        <div class="why-choose-counter">
+                        {{-- <div class="why-choose-counter">
                             <h3><span class="counter">800</span>+</h3>
                             <p>project completed</p>
-                        </div>
+                        </div> --}}
                     </div>
                     <!-- Why Choose Item End -->
                 </div>
@@ -628,7 +628,7 @@
     <!-- Our Projects Section End -->
 
     <!-- Cta Box Section Start -->
-    <div class="cta-box">
+    {{-- <div class="cta-box">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-8">
@@ -657,7 +657,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Cta Box Section End -->
 
     <!-- Our Testiminial Start -->
@@ -1107,7 +1107,7 @@
                         <!-- Contact Info Image Start -->
                         <div class="contact-info-image">
                             <figure>
-                                <img src="images/contact-info-img.png" alt="">
+                                <img src="" alt="">
                             </figure>
                         </div>
                         <!-- Contact Info Image End -->

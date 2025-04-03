@@ -199,7 +199,7 @@
 						<!-- Company Experience Box Start -->
 						<div class="company-experience">
 							<div class="company-experience-content">
-								<h3><span class="counter">25</span>+</h3>
+								<h3><span class="counter">10</span>+</h3>
 								<p>years of experience</p>
 							</div>
 						</div>
@@ -341,7 +341,7 @@
 				<!-- Section Title End -->
 			</div>
 
-			<div class="row">
+			{{-- <div class="row">
 				<div class="col-lg-3 col-6">
 					<!-- Company Counter Item Start -->
 					<div class="company-counter-item">
@@ -385,13 +385,13 @@
 					</div>
 					<!-- Company Counter Item End -->
 				</div>
-			</div>
+			</div> --}}
 		</div>
 	 </div>
 	<!-- What We Do Section End -->
 
 	<!-- Cta Box Section Start -->
-	<div class="cta-box">
+	{{-- <div class="cta-box">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-7 col-md-8">
@@ -421,7 +421,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 	<!-- Cta Box Section End -->
 
 	<!-- Our Team Start -->
@@ -581,7 +581,7 @@
                         <!-- Contact Info Image Start -->
                         <div class="contact-info-image">
                             <figure>
-                                <img src="images/contact-info-img.png" alt="">
+                                <img src="" alt="">
                             </figure>
                         </div>
                         <!-- Contact Info Image End -->
