@@ -699,7 +699,7 @@
                                         <div class="testimonial-body">
                                             <div class="author-image">
                                                 <figure class="image-anime">
-                                                    <img src="images/author-1.jpg" alt="">
+                                                    <img src="images/fallback.png" alt="">
                                                 </figure>
                                             </div>            
                                             <div class="author-content">
@@ -729,7 +729,7 @@
                                         <div class="testimonial-body">
                                             <div class="author-image">
                                                 <figure class="image-anime">
-                                                    <img src="images/author-2.jpg" alt="">
+                                                    <img src="images/fallback.png" alt="">
                                                 </figure>
                                             </div>            
                                             <div class="author-content">
