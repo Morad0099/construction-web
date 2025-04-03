@@ -53,7 +53,7 @@
 				<div class="container-fluid">
 					<!-- Logo Start -->
                     <a class="navbar-brand" href="/" style="display: flex; justify-content: center; align-items: center;">
-                        <img src="images/resized.png" style="width: 250px; height: auto; margin: 0 auto;" alt="Logo">
+                        <img src="images/new-new-logo.png" style="width: 250px; height: auto; margin: 0 auto;" alt="Logo">
                     </a>
 					<!-- Logo End -->
 
