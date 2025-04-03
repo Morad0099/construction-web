@@ -162,9 +162,9 @@
 
                         <!-- About Content Footer Start -->
                         <div class="about-us-content-footer wow fadeInUp" data-wow-delay="0.75s">
-                            <div class="about-us-footer-btn">
+                            {{-- <div class="about-us-footer-btn">
                                 <a href="#" class="btn-default-new">get free quote</a>
-                            </div>
+                            </div> --}}
                             <div class="about-us-contact-support">
                                 <div class="icon-box">
                                     <img src="images/icon-phone.svg" alt="">

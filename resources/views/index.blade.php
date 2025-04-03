@@ -165,16 +165,16 @@
 
                         <!-- About Content Footer Start -->
                         <div class="about-content-footer wow fadeInUp" data-wow-delay="0.75s">
-                            <div class="about-footer-btn">
+                            {{-- <div class="about-footer-btn">
                                 <a href="#" class="btn-default-new">get free quote</a>
-                            </div>
+                            </div> --}}
                             <div class="about-contact-support">
                                 <div class="icon-box">
                                     <img src="images/icon-phone.svg" alt="">
                                 </div>
                                 <div class="about-support-content">
                                     <p>call support center 24X7</p>
-                                    <h3>+233279716390 | +233538437105</h3>
+                                    <h3>+233279716390 +233538437105</h3>
                                 </div>
                             </div>
                         </div>
