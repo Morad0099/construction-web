@@ -392,7 +392,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="images/image7.png" alt="">
+                            <img src="images/ZIPLINE1Z.jpg" alt="">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -420,7 +420,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="images/image8.png" alt="">
+                            <img src="images/ok1x.jpg" alt="">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -1176,7 +1176,7 @@
                         <!-- Footer Logo Start -->
                         <div class="footer-logo">
                             <figure>
-                                <img src="images/resized.png" alt="">
+                                <img src="images/new-new-logo.png" alt="">
                             </figure>
                         </div>
                         <!-- Footer Logo End -->
